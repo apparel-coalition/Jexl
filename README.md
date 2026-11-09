@@ -1,3 +1,5 @@
+> **Archived 2026-11-09.** Kept for history; fork no longer used; the Higg dialect is [`higg-jexl/`](https://github.com/apparel-coalition/structures/tree/master/higg-jexl) and [`jexl-rs/`](https://github.com/apparel-coalition/structures/tree/master/jexl-rs).
+
 # Jexl [![Build Status](https://travis-ci.org/TomFrost/Jexl.svg?branch=master)](https://travis-ci.org/TomFrost/Jexl)
 
 Javascript Expression Language: Powerful context-based expression parser and evaluator
